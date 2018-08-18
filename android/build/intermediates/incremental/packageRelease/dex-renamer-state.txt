@@ -1,0 +1,4 @@
+#Tue Aug 14 00:36:20 EDT 2018
+base.0=/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

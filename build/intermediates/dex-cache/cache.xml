@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/GitHub/UnCiv/core/build/libs/core-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f069c76f20598a1e41607a74c056480fd7bb5ec1">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/pre-dexed/release/core-1.0.1_53f3b82083a2eb6733ff82710c725cfa22c13b6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/pre-dexed/release/gdx-backend-android-1.9.6_70b7ff092c713923a8764144a7b6802ece5bd777.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.9.6/69187cc3c8062f191df435b43671b0e5ffcbf353/gdx-freetype-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69187cc3c8062f191df435b43671b0e5ffcbf353">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-freetype-1.9.6_58a2b8f7ac65021eed1db30fcebbfd3c86463010/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.9.6/69187cc3c8062f191df435b43671b0e5ffcbf353/gdx-freetype-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69187cc3c8062f191df435b43671b0e5ffcbf353">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/pre-dexed/release/gdx-freetype-1.9.6_58a2b8f7ac65021eed1db30fcebbfd3c86463010.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.41/7e34f009642702250bccd9e5255866f408962a05/kotlin-stdlib-1.2.41.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e34f009642702250bccd9e5255866f408962a05">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.2.41_3b40421506d38a7668bfe14eb6508fa431024872/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.6_70b7ff092c713923a8764144a7b6802ece5bd777/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.41/7e34f009642702250bccd9e5255866f408962a05/kotlin-stdlib-1.2.41.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e34f009642702250bccd9e5255866f408962a05">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/pre-dexed/release/kotlin-stdlib-1.2.41_3b40421506d38a7668bfe14eb6508fa431024872.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.6_10352bbe30d85d5633d7945fff308faa68eab654/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/pre-dexed/release/annotations-13.0_38312a07e707053a3876c874752d4a70ed02091e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/pre-dexed/release/gdx-box2d-1.9.6_9fdb1c8363eac61606ecd5d4c3baea3ce2a74ed5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec2f0ea5fd8364403505b1a528fb4ee066b55d32">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ce086b6c4f9577e62c33c68c379139f925bc270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.6_9fdb1c8363eac61606ecd5d4c3baea3ce2a74ed5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8ba4697849ba9d40c96ca2030ccd3c9f39e71079/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-13.0_38312a07e707053a3876c874752d4a70ed02091e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/pre-dexed/release/gdx-1.9.6_10352bbe30d85d5633d7945fff308faa68eab654.jar" />
+    </item>
+
+</items>

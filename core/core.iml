@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":core" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":core" />
+      </configuration>
+    </facet>
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/build" />
+        <option name="BUILDABLE" value="true" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/build/classes/kotlin/main" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="core" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
+          <option name="languageVersion" value="1.2" />
+          <option name="apiVersion" value="1.2" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
+    <output url="file://$MODULE_DIR$/build/classes/java/main" />
+    <output-test url="file://$MODULE_DIR$/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="gdx-box2d-1.9.6" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="gdx-freetype-1.9.6" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="gdx-1.9.6" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="kotlin-stdlib-1.2.41" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="play-services-ads-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="annotations-13.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="play-services-ads-lite-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="play-services-clearcut-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="play-services-safetynet-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="play-services-base-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="play-services-gass-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="play-services-tasks-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="play-services-basement-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="support-v4-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="support-fragment-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="support-media-compat-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="support-core-utils-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="support-core-ui-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="support-compat-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="support-annotations-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="gdx-box2d-1.9.6" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="gdx-freetype-1.9.6" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="gdx-1.9.6" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="kotlin-stdlib-1.2.41" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="play-services-ads-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="annotations-13.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="play-services-ads-lite-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="play-services-clearcut-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="play-services-safetynet-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="play-services-base-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="play-services-gass-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="play-services-tasks-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="play-services-basement-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-v4-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-fragment-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-media-compat-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-core-utils-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-core-ui-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-compat-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-annotations-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="gdx-box2d-1.9.6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="gdx-freetype-1.9.6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="gdx-1.9.6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="kotlin-stdlib-1.2.41" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="play-services-ads-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="annotations-13.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="play-services-ads-lite-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="play-services-clearcut-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="play-services-safetynet-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="play-services-base-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="play-services-gass-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="play-services-tasks-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="play-services-basement-11.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-v4-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-fragment-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-media-compat-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-core-utils-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-core-ui-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-compat-25.2.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-annotations-25.2.0" level="project" />
+    <orderEntry type="library" exported="" name="core.core-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="core.core-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="core.core-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="core.core-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="core.core-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="core.core-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="core.core-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="core.core-1.0.1" level="project" />
+  </component>
+</module>

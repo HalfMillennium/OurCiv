@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.0.aar/6ef7ca976d7a7d42fafa1a7815cab32e/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.0.aar/771e40ef000d6bd965244d47163b4340/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.0.aar/40bbbed7995f36175595a521f8706a52/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.0.aar/4e053699aaf991965fb94a44b1d97541/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.0.aar/b1d4a27eb35ce54dc6966ac4477e73c4/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.0.aar/601e8e53c349c0b961cfead3213984ea/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.0.aar/1e8109f758d2225d02fc7aca1b313e5d/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/603cd65ee02aa8c4be09dcbf7676721a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/8788b48485ae51a73517c7f0fd9d7d6f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e0c4546f9d5ff4529f29779368f891c2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/f5ee45777ecd29d4895f14ac1fc0dbac/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/7fe7fe68b71831aca1e0906255630a48/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/ca7297c49bfa31d18d35d933ba5e6dfc/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:5:5-16
+INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:5:5-16
+INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:5:5-16
+MERGED from [com.google.android.gms:play-services-ads:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.0.aar/6ef7ca976d7a7d42fafa1a7815cab32e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.0.aar/6ef7ca976d7a7d42fafa1a7815cab32e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.0.aar/771e40ef000d6bd965244d47163b4340/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.0.aar/771e40ef000d6bd965244d47163b4340/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.0.aar/40bbbed7995f36175595a521f8706a52/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.0.aar/40bbbed7995f36175595a521f8706a52/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.0.aar/4e053699aaf991965fb94a44b1d97541/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.0.aar/4e053699aaf991965fb94a44b1d97541/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.0.aar/b1d4a27eb35ce54dc6966ac4477e73c4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.0.aar/b1d4a27eb35ce54dc6966ac4477e73c4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.0.aar/601e8e53c349c0b961cfead3213984ea/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.0.aar/601e8e53c349c0b961cfead3213984ea/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.0.aar/1e8109f758d2225d02fc7aca1b313e5d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.0.aar/1e8109f758d2225d02fc7aca1b313e5d/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/603cd65ee02aa8c4be09dcbf7676721a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/603cd65ee02aa8c4be09dcbf7676721a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/8788b48485ae51a73517c7f0fd9d7d6f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/8788b48485ae51a73517c7f0fd9d7d6f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e0c4546f9d5ff4529f29779368f891c2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e0c4546f9d5ff4529f29779368f891c2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/f5ee45777ecd29d4895f14ac1fc0dbac/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/f5ee45777ecd29d4895f14ac1fc0dbac/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/7fe7fe68b71831aca1e0906255630a48/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/7fe7fe68b71831aca1e0906255630a48/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/ca7297c49bfa31d18d35d933ba5e6dfc/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/ca7297c49bfa31d18d35d933ba5e6dfc/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:5:5-16
+INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:5:5-16
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/603cd65ee02aa8c4be09dcbf7676721a/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:5:5-16
+		INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:5:5-16
+		INJECTED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml
+application
+ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:7:5-22:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.0.aar/771e40ef000d6bd965244d47163b4340/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.0.aar/771e40ef000d6bd965244d47163b4340/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.0.aar/40bbbed7995f36175595a521f8706a52/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.0.aar/40bbbed7995f36175595a521f8706a52/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.0.aar/4e053699aaf991965fb94a44b1d97541/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.0.aar/4e053699aaf991965fb94a44b1d97541/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.0.aar/b1d4a27eb35ce54dc6966ac4477e73c4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.0.aar/b1d4a27eb35ce54dc6966ac4477e73c4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.0.aar/601e8e53c349c0b961cfead3213984ea/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.0.aar/601e8e53c349c0b961cfead3213984ea/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.0.aar/1e8109f758d2225d02fc7aca1b313e5d/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.0.aar/1e8109f758d2225d02fc7aca1b313e5d/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/603cd65ee02aa8c4be09dcbf7676721a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/603cd65ee02aa8c4be09dcbf7676721a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/8788b48485ae51a73517c7f0fd9d7d6f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/8788b48485ae51a73517c7f0fd9d7d6f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e0c4546f9d5ff4529f29779368f891c2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e0c4546f9d5ff4529f29779368f891c2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/f5ee45777ecd29d4895f14ac1fc0dbac/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/f5ee45777ecd29d4895f14ac1fc0dbac/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/7fe7fe68b71831aca1e0906255630a48/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/7fe7fe68b71831aca1e0906255630a48/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/ca7297c49bfa31d18d35d933ba5e6dfc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/ca7297c49bfa31d18d35d933ba5e6dfc/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:9:9-40
+	android:allowBackup
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:11:9-40
+activity#com.unciv.game.AndroidLauncher
+ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:15:13-50
+	android:label
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:14:13-45
+	android:configChanges
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:16:13-83
+	android:name
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:13:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/apple/Documents/GitHub/UnCiv/android/AndroidManifest.xml:19:27-74
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.0.aar/771e40ef000d6bd965244d47163b4340/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.0.aar/771e40ef000d6bd965244d47163b4340/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.0.aar/771e40ef000d6bd965244d47163b4340/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.0.aar/771e40ef000d6bd965244d47163b4340/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.0.aar/771e40ef000d6bd965244d47163b4340/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.0.aar/771e40ef000d6bd965244d47163b4340/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.0.aar/771e40ef000d6bd965244d47163b4340/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.0.aar/771e40ef000d6bd965244d47163b4340/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.0.aar/1e8109f758d2225d02fc7aca1b313e5d/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.0.aar/1e8109f758d2225d02fc7aca1b313e5d/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.0.aar/1e8109f758d2225d02fc7aca1b313e5d/AndroidManifest.xml:20:20-65

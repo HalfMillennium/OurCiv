@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-mdpi_uncivicon.png.flat",
+        "source": "/Users/apple/Documents/GitHub/UnCiv/android/res/drawable-mdpi/uncivicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xxhdpi_uncivicon.png.flat",
+        "source": "/Users/apple/Documents/GitHub/UnCiv/android/res/drawable-xxhdpi/uncivicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/raw_heroic_demise_song.mp3.flat",
+        "source": "/Users/apple/Documents/GitHub/UnCiv/android/res/raw/heroic_demise_song.mp3"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_uncivicon.png.flat",
+        "source": "/Users/apple/Documents/GitHub/UnCiv/android/res/drawable-xxxhdpi/uncivicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xhdpi_uncivicon.png.flat",
+        "source": "/Users/apple/Documents/GitHub/UnCiv/android/res/drawable-xhdpi/uncivicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-hdpi_uncivicon.png.flat",
+        "source": "/Users/apple/Documents/GitHub/UnCiv/android/res/drawable-hdpi/uncivicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/734fe1669e6e5b3371d5c742e718f520/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/GitHub/UnCiv/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_knight.png.flat",
+        "source": "/Users/apple/Documents/GitHub/UnCiv/android/res/drawable-xxxhdpi/knight.png"
+    }
+]
